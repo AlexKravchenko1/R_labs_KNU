@@ -1,2 +1,2 @@
-# R_labs_KNU
+# R_PythonCourseKNU
 R programming language completed task
